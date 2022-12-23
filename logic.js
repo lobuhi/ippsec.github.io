@@ -1,6 +1,6 @@
 var searchResultFormat = '<tr><td><a href="$link" target="_blank">$tool</a></td><td align="left">$description</td><td>$forks</td><td>$stars</td></tr>';
 var linkTemplate = '';
-var totalLimit = 250;
+var totalLimit = 400;
 
 var controls = {
     oldColor: '',
